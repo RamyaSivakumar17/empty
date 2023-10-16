@@ -11,4 +11,5 @@ public class Week3Day1Application {
 	}
 
 }
-//master:conflict
+//master:no conflict after the merge
+//To add changes : new_branch(no conflict after the merge)
