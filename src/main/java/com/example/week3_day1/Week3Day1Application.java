@@ -15,3 +15,5 @@ public class Week3Day1Application {
 
 //to merge the local branch with the changes done in the remote branch by someone:
 // Local change:no conflicts after the change
+
+//local change 2
