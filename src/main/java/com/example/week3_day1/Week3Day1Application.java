@@ -13,3 +13,5 @@ public class Week3Day1Application {
 }
 //master:no conflict after the merge
 //To add changes : new_branch(no conflict after the merge)
+
+//to merge the local branch with the changes done in the remote branch by someone
